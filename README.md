@@ -10,6 +10,7 @@ I’m a B.Tech Computer Science student passionate about coding, web development
 - 🌱 Currently learning: Full Stack Development, ML, AI, and modern web tools
 - 💡 Interests: Python, JavaScript, HTML/CSS, NLP, Data Science, Web Apps
 - 🚀 Goal: Build impactful projects and keep growing as a developer
+- for protfilo visit my website made by replit https://kuldeep-yadav-portfolio--abhayking136.replit.app/
 
 ---
 
