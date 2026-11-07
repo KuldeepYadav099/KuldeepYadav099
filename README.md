@@ -55,18 +55,6 @@ A simple and clean HTML-based CV/resume project showcasing styling and structure
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KuldeepYadav099&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuldeepYadav099&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-KuldeepYadav099-181717?style=for-the-badge&logo=github)](https://github.com/KuldeepYadav099)
